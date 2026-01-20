@@ -1,0 +1,8 @@
+Name: Vuth Sophany 
+Student ID: 2024003
+I am a junior, majoring in Computer Secience.
+I am interested in learning programming and software development.
+I like writig code, testing new ideas, and learning from errors to improve my skills.
+I am curious about how applications are built and how technology can solve real problems.
+Currently, I am learning Git and GitHub to manage my projects and track my progress.
+My goal is to continue improving my technical skills and grow into a confident software developer.
